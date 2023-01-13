@@ -2,7 +2,7 @@ package com.driver;
 
 public class Main {
 
-    static class Product{
+    public static class Product{
         int product(int x, int y) {
             return x+y;
         }
